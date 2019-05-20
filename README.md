@@ -1,8 +1,7 @@
 # Pragmatics-Assignments
 
 ## Overview
-- All assignments of CS202 (Programming Pragmatics & Paradigm) !
-- for more info [Assignment3](https://github.com/cynicphoenix/Pragmatics-Assignments/blob/master/Assignment_3.docx) 
+All assignments of CS202 (Programming Pragmatics & Paradigm) !
 
 
 ## Directories
