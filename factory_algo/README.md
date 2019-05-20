@@ -48,6 +48,7 @@ As usual, you should submit well documented source code for your solution along 
 To Execute :
 
 ```bash
-javac -cp algorithms.jar: main.java java -cp algorithms.jar: main
+javac -cp algorithms.jar: main.java
+java -cp algorithms.jar: main
 ```
 
