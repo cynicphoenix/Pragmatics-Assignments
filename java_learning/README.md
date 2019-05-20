@@ -116,4 +116,4 @@ java main
  
  ## Results
  
-- [Analyzed data](https://github.com/cynicphoenix/Pragmatics-Assignments/blob/master/java_learning/SBI/sbi.pdf
+- [Analyzed data](https://github.com/cynicphoenix/Pragmatics-Assignments/blob/master/java_learning/SBI/sbi.pdf)
