@@ -1,6 +1,0 @@
-To RUN THE PROGRAM, enter:
-(test file is test.c)
-
-lex 2017csb1189.l
-gcc 2017csb1189.c lex.yy.c -o r
-./r test.c
