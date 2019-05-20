@@ -11,7 +11,7 @@ We need to create a program in C which checks whether certain coding conventions
     |-2017csb1189.h
     |-2017csb1189.l
     |-test.c
-    ```
+```
 
 ## To Execute
 
