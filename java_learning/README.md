@@ -7,7 +7,7 @@
 - JUnit Test Suite
 - Parallization Strategy
 - Synchronization Technique
-- for more info [Assignment3](https://github.com/cynicphoenix/Pragmatics-Assignments/blob/master/Assignment_3.docx) 
+- for more info [Assignment3](https://github.com/cynicphoenix/Pragmatics-Assignments/blob/master/java_learning/Assignment_3.docx?raw=true) 
 
  
  # Amacon 1.0
